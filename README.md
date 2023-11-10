@@ -1,7 +1,7 @@
 # Trapped-In-Neural-Nets
 
-Hello Mentees .<br>
-Welcome to Wids! .<br>
+Hello Mentees <br><br>
+Welcome to Wids! <br>
 In this project we cover the essentials of Classical Machine Learning or the Pre-Deep Learning era, followed by an  introduction to Deep Learning - the backbone of Artificial Intelligence today
 
 Please go through the following content step by step:
